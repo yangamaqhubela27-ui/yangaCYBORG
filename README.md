@@ -110,7 +110,7 @@ The screenshot above shows a successful GitHub Actions workflow run with a green
 
 The project presentation demonstrates the chatbot and explains the code structure, logic, voice integration and formatting techniques used.
 
-**YouTube Presentation Link:**
+**YouTube Presentation Link:**https://youtu.be/Z-JSp0F_TOE
 ## Author
 
 Yanga Maqhubela
