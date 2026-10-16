@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\yangaCYBORG_GUI\bin\Debug\net8.0-windows\yangaCYBORG_GUI.exe
+C:\Users\Student\source\repos\yangaCYBORG_GUI\bin\Debug\net8.0-windows\yangaCYBORG_GUI.deps.json
+C:\Users\Student\source\repos\yangaCYBORG_GUI\bin\Debug\net8.0-windows\yangaCYBORG_GUI.runtimeconfig.json
+C:\Users\Student\source\repos\yangaCYBORG_GUI\bin\Debug\net8.0-windows\yangaCYBORG_GUI.dll
+C:\Users\Student\source\repos\yangaCYBORG_GUI\bin\Debug\net8.0-windows\yangaCYBORG_GUI.pdb
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\yangaCYBORG_GUI.Form1.resources
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\yangaCYBORG_GUI.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\yangaCYBORG_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\yangaCYBORG_GUI.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\yangaCYBORG_GUI.AssemblyInfo.cs
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\yangaCYBORG_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\yangaCYBORG_GUI.dll
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\refint\yangaCYBORG_GUI.dll
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\yangaCYBORG_GUI.pdb
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\yangaCYBORG_GUI.genruntimeconfig.cache
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\ref\yangaCYBORG_GUI.dll
+C:\Users\Student\source\repos\yangaCYBORG_GUI\obj\Debug\net8.0-windows\yangaCYBORG_GUI.Properties.Resources.resources
