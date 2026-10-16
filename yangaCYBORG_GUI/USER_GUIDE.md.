@@ -1,0 +1,52 @@
+YangaCYBORG – Part 2 User Guide
+
+1. Introduction
+
+YangaCYBORG is a cybersecurity awareness chatbot developed using C# and Windows Forms. The application helps users learn about online safety through an interactive chat interface.
+
+2. How to Run the Application
+
+1. Download or clone the GitHub repository.
+2. Open the yangaCYBORG_GUI project in Visual Studio.
+3. Ensure the required .NET 8 development tools are installed.
+4. Click the Start button in Visual Studio to run the application.
+5. The chatbot window will open and display a welcome message.
+
+3. How to Use the Chatbot
+
+1. Type a message into the text input field.
+2. Click the Send button.
+3. Read the chatbot’s response in the conversation area.
+4. Continue asking questions about cybersecurity.
+
+4. Available Features
+
+Greeting Recognition: The chatbot responds to greetings such as “hello” and “hi”.
+
+Name Recognition: Users can introduce themselves by typing “My name is…” to personalise the conversation.
+
+Cybersecurity Awareness: Users can ask questions about phishing, passwords, scams and privacy.
+
+Sentiment Recognition: The chatbot responds supportively when users express feelings such as worry or fear.
+
+Conversation Memory: The chatbot remembers the user’s name and favourite cybersecurity topic during the current session.
+
+5. Example Messages
+
+* Hello
+* My name is Yanga
+* Tell me about phishing
+* How can I protect my password?
+* I am worried
+* I am interested in privacy
+* What is my favorite topic?
+
+6. Handling Invalid Input
+
+If the user enters an unrecognised message, the chatbot provides a fallback response and encourages the user to rephrase their question.
+
+The chatbot also checks for empty messages to prevent invalid submissions.
+
+7. Conclusion
+
+YangaCYBORG provides an accessible and interactive way for users to improve their cybersecurity awareness while demonstrating C# Windows Forms development, keyword recognition, sentiment recognition and conversation memory.
